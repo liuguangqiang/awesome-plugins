@@ -13,6 +13,7 @@ Name | Description | 介绍
 [FoldingPlugin](https://github.com/dmytrodanylyk/folding-plugin) | Android File Grouping Plugin | 可以给android的文件进行分组，比如layout和drawable
 [adb-idea](https://github.com/pbreault/adb-idea) | A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development. | 可以通过IDE快速使用adb命令的插件
 [Android Drawable Importer](https://github.com/winterDroid/android-drawable-importer-intellij-plugin) | Adds an option to IntelliJ to import drawables in different resolutions from AndroidIcons, own "drawable repos" and scale a certain image down/up to the defined resolutions.
+[android-holo-colors-idea-plugin](https://github.com/jeromevdl/android-holo-colors-idea-plugin) | IntelliJ / Android Studio plugin for Android Holo Colors | 通过自定义Holo主题颜色生成对应的Drawable和布局文件
 
 ##Xcode
 Name | Description | 介绍``
