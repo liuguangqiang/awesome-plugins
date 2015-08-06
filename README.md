@@ -1,13 +1,17 @@
 # awesome-plugins
-A list of awesome plugins for IDE.
+A list of awesome plugins for development tools.
 
-##Welcome to contribute!
+##Welcome to contribute
 ```
 [Plugin Name](link) | Description <br>Optional description in Chinese
 ```
 ##Content
 - [Android Studio](#android-studio)
 - [Xcode](#xcode)
+- [Eclipse](#eclipse)
+- [Visual Studio](#visual-studio)
+- [Vim](#vim)
+- [Sublime Text](#sublime-text)
 
 ##Android Studio
 Name | Description
@@ -31,3 +35,13 @@ Name | Description
 [XToDo](https://github.com/trawor/XToDo) | Xcode plugin to collect and list the TODO,FIXME,???,!!!! <br>让Xcode也支持TODO,FIXME,???,!!!!注解，并提供列表查看
 [Backlight-for-XCode](https://github.com/limejelly/Backlight-for-XCode) | Highlights the current editing line in Xcode.<br>高亮当前正在编辑的一行
 [Peckham](https://github.com/markohlebar/Peckham) | Add #import-s from anywhere in the code.
+
+##Eclipse
+
+##Visual Studio
+
+##Vim
+
+##Emacs
+
+##Sublime Text
