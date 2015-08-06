@@ -12,7 +12,7 @@ A list of awesome plugins for IDE.
 ##Android Studio
 Name | Description
 --- | ---
-[AndroidParcelable](https://github.com/mcharmas/android-parcelable-intellij-plugin) | IntelliJ Plugin for Android Parcelable boilerplate code generation. <hr> 自动实现Parcelable接口
+[AndroidParcelable](https://github.com/mcharmas/android-parcelable-intellij-plugin) | IntelliJ Plugin for Android Parcelable boilerplate code generation. <br> 自动实现Parcelable接口
 [Butterknife Zelezny](https://github.com/avast/android-butterknife-zelezny) | Android Studio plug-in for generating ButterKnife injections from selected layout XML. <br> ButterKnife生成器
 [Selector Chapek](https://github.com/inmite/android-selector-chapek) | Android Studio plugin which automatically generates drawable selectors from appropriately named resources. <br> 通过资源文件自动生成Selector Drawable
 [Folding Plugin](https://github.com/dmytrodanylyk/folding-plugin) | Android File Grouping Plugin .为android的资源文件分组，比如layout和drawable
