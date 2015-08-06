@@ -13,8 +13,8 @@ A list of awesome plugins for IDE.
 ##Android Studio
 Name | Description
 --- | ---
-[AndroidParcelable](https://github.com/mcharmas/android-parcelable-intellij-plugin) | IntelliJ Plugin for Android Parcelable boilerplate code generation.<p> 自动实现Parcelable接口
-[Butterknife Zelezny](https://github.com/avast/android-butterknife-zelezny) | Android Studio plug-in for generating ButterKnife injections from selected layout XML.<p> ButterKnife生成器
+[AndroidParcelable](https://github.com/mcharmas/android-parcelable-intellij-plugin) | IntelliJ Plugin for Android Parcelable boilerplate code generation.<br> 自动实现Parcelable接口
+[Butterknife Zelezny](https://github.com/avast/android-butterknife-zelezny) | Android Studio plug-in for generating ButterKnife injections from selected layout XML.<br> ButterKnife生成器
 [Selector Chapek](https://github.com/inmite/android-selector-chapek) | Android Studio plugin which automatically generates drawable selectors from appropriately named resources.<p> 通过资源文件自动生成Selector Drawable
 [Folding Plugin](https://github.com/dmytrodanylyk/folding-plugin) | Android File Grouping Plugin .为android的资源文件分组，比如layout和drawable
 [Adb Idea](https://github.com/pbreault/adb-idea) | A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.<p> 操作快捷菜单，快速清除数据，重启应用，卸载应用等操作
