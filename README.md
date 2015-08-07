@@ -11,6 +11,7 @@ A list of awesome plugins for development tools.
 - [Eclipse](#eclipse)
 - [Visual Studio](#visual-studio)
 - [Vim](#vim)
+- [Emacs](#emacs)
 - [Sublime Text](#sublime-text)
 
 ##Android Studio
